@@ -1,2 +1,3 @@
-# ServiceHub-Management-System
-The project provides users with a platform to access various services like plumbing, security, electrician, ambulance, and chef services. It connects users with qualified professionals through aconvenient interface for requesting, scheduling, and paying for services. 
+# E-healthcare-Management-System
+Admin : A hospital management system is a software platform that automates administrativeand clinical tasks in healthcare facilities. It includes features like patient management,appointment scheduling, electronic health records, billing, inventory management, andreporting. By streamlining processes and improving efficiency, it enhances patient care,optimizes resource utilization, and ensures compliance with regulations.
+User: The user module in a Hospital Management System streamlines interactions for patients,doctors, and staff. It includes features for patient registration, appointment scheduling, medicalrecords, billing, and specialized functions like blood donation management.
